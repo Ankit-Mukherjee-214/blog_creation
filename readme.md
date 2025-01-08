@@ -1,4 +1,4 @@
-# Blog Creation Activity 
+# AI-Powered Blog Writer - Streamlining Content Creation
 
 Creating an AI bot, which will provide a blog of any topic the user will ask for. 
 
